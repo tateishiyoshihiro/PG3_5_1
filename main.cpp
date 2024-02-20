@@ -5,7 +5,6 @@
 using namespace std;
 
 int main() {
-
 	list<const char*> list_{ "Tokyo",     "Kanda",    "Akihabara",    "Okachimachi", "Uguisudani",
 							"Nippori",   "Tabata",   "Komagome",     "Sugamo",      "Otsuka",
 							"Ikebukuro", "Mejiro",   "Takadanobaba", "Shin-Okubo",  "Shinjuku",
